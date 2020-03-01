@@ -5,4 +5,4 @@ I enrolled in this Udemy Java course to review concepts learned in school, prepa
 | Date          | Hours |
 |:--------------|:----: |
 | 02/29/2020    | 8.0   |
-| 03/01/2020    | x.x   |
+| 03/01/2020    | 3.0   |
