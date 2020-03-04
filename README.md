@@ -6,3 +6,4 @@ I enrolled in this Udemy Java course to review concepts learned in school, prepa
 |:--------------|:----: | :-------: |
 | 02/29/2020    | 8.0   | 10%       |
 | 03/01/2020    | 3.0   | 14%       |
+| 03/03/2020    | 2.0   | 17%       |
