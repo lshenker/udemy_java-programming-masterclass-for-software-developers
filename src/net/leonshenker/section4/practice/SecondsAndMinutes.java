@@ -1,4 +1,4 @@
-package net.leonshenker.challenges;
+package net.leonshenker.section4.practice;
 
 public class SecondsAndMinutes {
 

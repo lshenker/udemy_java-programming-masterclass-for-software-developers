@@ -1,4 +1,4 @@
-package net.leonshenker.control;
+package net.leonshenker.section5;
 
 public class Switch {
 
@@ -15,7 +15,7 @@ public class Switch {
 		
 		int switchValue = 6;
 		
-		//byte, short, char, int
+		//byte, short, char, int, string
 		switch(switchValue) {
 			case 1:
 				System.out.println("Value was 1");

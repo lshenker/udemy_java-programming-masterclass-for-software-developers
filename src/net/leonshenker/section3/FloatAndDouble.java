@@ -1,4 +1,4 @@
-package net.leonshenker.fundamentals;
+package net.leonshenker.section3;
 
 public class FloatAndDouble {
 

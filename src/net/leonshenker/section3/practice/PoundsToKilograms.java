@@ -1,4 +1,4 @@
-package net.leonshenker.challenges;
+package net.leonshenker.section3.practice;
 
 public class PoundsToKilograms {
 
